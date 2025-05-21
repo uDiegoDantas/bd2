@@ -1,2 +1,2 @@
-# bd2
+# PROJETO E ADMINISTRAÇÃO DE BANCO DE DADOS
 Repositórios dedicados a discilina de PROJETO E ADMINISTRAÇÃO DE BANCO DE DADOS 
